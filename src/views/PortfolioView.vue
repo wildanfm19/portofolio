@@ -53,6 +53,25 @@ export default {
           github: 'https://github.com/wildanfm19/frontend-foodtracker-v2',
           demo: 'https://dailybytes-blue.vercel.app/',
           year: '2025'
+        },
+         {
+          id: 3,
+          name: 'B-COD Marketplace',
+          imageUrl: 'portfolio_v2',
+          category: 'E-Commerce Platform',
+          shortDescription: 'Exclusive marketplace for BINUS University students with Cash on Delivery payment system',
+          fullDescription: 'B-COD is a specialized e-commerce marketplace designed exclusively for BINUS University students and community. Built with Laravel backend and React.js frontend, this platform enables students to buy and sell products with a unique Cash on Delivery (COD) payment system. Features secure authentication with student verification, campus-based delivery zones, and comprehensive order management tailored for university environment.',
+          technologies: ['Laravel', 'React.js', 'MySQL', 'PHP', 'JavaScript', 'Bootstrap', 'RESTful API'],
+          features: [
+            'BINUS student verification system',
+            'Cash on Delivery (COD) payment only',
+            'Campus-based delivery zones',
+            'Product listing and search',
+            'Student seller dashboard',
+          ],
+          github: 'https://github.com/wildanfm19/frontend_bcod',
+          demo: 'https://b-cod.vercel.app/',
+          year: '2025'
         }
       ]
     };

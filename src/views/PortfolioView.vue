@@ -57,7 +57,7 @@ export default {
          {
           id: 3,
           name: 'B-COD Marketplace',
-          imageUrl: 'portfolio_v2',
+          imageUrl: 'portfolio_v3',
           category: 'E-Commerce Platform',
           shortDescription: 'Exclusive marketplace for BINUS University students with Cash on Delivery payment system',
           fullDescription: 'B-COD is a specialized e-commerce marketplace designed exclusively for BINUS University students and community. Built with Laravel backend and React.js frontend, this platform enables students to buy and sell products with a unique Cash on Delivery (COD) payment system. Features secure authentication with student verification, campus-based delivery zones, and comprehensive order management tailored for university environment.',

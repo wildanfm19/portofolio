@@ -95,7 +95,7 @@
                       </div>
                       <div>
                         <h4 class="text-white font-semibold">Personal Email</h4>
-                        <p class="text-gray-400 text-sm">dracko.maaruftm@gmail.com</p>
+                        <p class="text-gray-400 text-sm">fariezkywildan@gmail.com</p>
                       </div>
                     </div>
                   </div>

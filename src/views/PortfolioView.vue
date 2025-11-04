@@ -5,33 +5,36 @@ export default {
       items: [
         {
           id: 1,
-          name: "Personal Website",
-          imageUrl: "portfolio_v1",
-          category: "Web Development",
+          name: "NBA 2025 Stats Web App",
+          imageUrl: "nba-stats-2025", // replace with a relevant image
+          category: "FullStack Web Application",
           shortDescription:
-            "Modern portfolio website showcasing personal projects and skills",
+            "A web app that provides NBA player and team statistics using web scraping and a dynamic dashboard.",
           fullDescription:
-            "My personal website built with Vue.js 3 and Tailwind CSS. This website showcases my profile, skills, and projects while serving as a platform to experiment with new technologies. Features responsive design, smooth animations, and modern UI/UX principles.",
+            "NBA Stats Web App is a full-stack platform that allows users to view and analyze NBA player and team statistics. The backend scrapes data from basketball-reference.com using **Python, pandas, and BeautifulSoup** and stores it in a database. The frontend, built with **React**, displays interactive tables and visualizations. Jupyter Notebooks are used for data analysis and cleaning. This project demonstrates web scraping, backend API development, and responsive frontend design.",
           technologies: [
-            "Vue.js 3",
-            "Tailwind CSS",
-            "JavaScript",
-            "HTML5",
-            "CSS3",
-            "Responsive Design",
+            "React",
+            "Spring Boot",
+            "PostgreSQL",
+            "Python",
+            "pandas",
+            "BeautifulSoup",
+            "Jupyter Notebook",
+            "Tailwind",
           ],
           features: [
-            "Responsive design for all devices",
-            "Smooth scroll animations",
-            "Modern dark theme",
-            "Interactive portfolio gallery",
-            "Contact form integration",
-            "SEO optimized",
+            "Web scraping of NBA stats from basketball-reference.com using Python",
+            "Data analysis and cleaning in Jupyter Notebook",
+            "Interactive tables and dashboards for players and teams",
+            "Search and Filter functionality for stats",
+            "Responsive frontend built with React",
+            "Backend API built with Spring Boot and database integration",
           ],
-          github: "https://github.com/wildanfm19/portofolio",
-          demo: "https://portofolio-wine-six.vercel.app/",
+          github: "https://github.com/wildanfm19/nba_stats_2024-2025", // replace with actual repo
+          demo: "https://nba-player-stats-2024-2025-react.vercel.app/home", // replace with actual demo link
           year: "2025",
         },
+       
         {
           id: 2,
           name: "Food Tracker App",
@@ -86,7 +89,6 @@ export default {
             "Student seller dashboard",
           ],
           github: "https://github.com/wildanfm19/frontend_bcod",
-          demo: "https://b-cod.vercel.app/",
           year: "2025",
         },
         {
@@ -157,56 +159,33 @@ export default {
           year: "2025",
         },
 
-        {
+         {
           id: 7,
-          name: "Gmail AI Reply Web App",
-          imageUrl: "email-ai-website", // replace with a relevant image
-          category: "FullStack Web Application",
+          name: "Personal Website",
+          imageUrl: "portfolio_v1",
+          category: "Web Development",
           shortDescription:
-            "A web app that generates AI-powered email replies automatically.",
+            "Modern portfolio website showcasing personal projects and skills",
           fullDescription:
-            "Gmail AI Reply Web App helps users compose email responses quickly using AI. Users can customize and generate replies directly from the web interface. The frontend is built with **React**, the backend uses **Spring Boot**, and the **Gemini API** powers AI response generation. This project demonstrates full-stack development and AI integration for productivity.",
-          technologies: ["React", "Spring Boot", "Gemini API", "Tailwind"],
-          features: [
-            "AI-powered automatic email replies",
-            "Web app interface for customizing replies",
-            "Responsive frontend built with React",
-            "Backend logic handled by Spring Boot",
-          ],
-          github: "https://github.com/wildanfm19/email-assistant-frontend",
-          demo: "https://email-assistant-frontend-beta.vercel.app/", // replace with actual repo
-          year: "2025",
-        },
-
-        {
-          id: 8,
-          name: "NBA 2025 Stats Web App",
-          imageUrl: "nba-stats-2025", // replace with a relevant image
-          category: "FullStack Web Application",
-          shortDescription:
-            "A web app that provides NBA player and team statistics using web scraping and a dynamic dashboard.",
-          fullDescription:
-            "NBA Stats Web App is a full-stack platform that allows users to view and analyze NBA player and team statistics. The backend scrapes data from basketball-reference.com using **Python, pandas, and BeautifulSoup** and stores it in a database. The frontend, built with **React**, displays interactive tables and visualizations. Jupyter Notebooks are used for data analysis and cleaning. This project demonstrates web scraping, backend API development, and responsive frontend design.",
+            "My personal website built with Vue.js 3 and Tailwind CSS. This website showcases my profile, skills, and projects while serving as a platform to experiment with new technologies. Features responsive design, smooth animations, and modern UI/UX principles.",
           technologies: [
-            "React",
-            "Spring Boot",
-            "PostgreSQL",
-            "Python",
-            "pandas",
-            "BeautifulSoup",
-            "Jupyter Notebook",
-            "Tailwind",
+            "Vue.js 3",
+            "Tailwind CSS",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "Responsive Design",
           ],
           features: [
-            "Web scraping of NBA stats from basketball-reference.com using Python",
-            "Data analysis and cleaning in Jupyter Notebook",
-            "Interactive tables and dashboards for players and teams",
-            "Search and Filter functionality for stats",
-            "Responsive frontend built with React",
-            "Backend API built with Spring Boot and database integration",
+            "Responsive design for all devices",
+            "Smooth scroll animations",
+            "Modern dark theme",
+            "Interactive portfolio gallery",
+            "Contact form integration",
+            "SEO optimized",
           ],
-          github: "https://github.com/wildanfm19/nba_stats_2024-2025", // replace with actual repo
-          demo: "https://nba-player-stats-2024-2025-react.vercel.app/home", // replace with actual demo link
+          github: "https://github.com/wildanfm19/portofolio",
+          demo: "https://portofolio-wine-six.vercel.app/",
           year: "2025",
         },
       ],

@@ -177,6 +177,38 @@ export default {
           demo: "https://email-assistant-frontend-beta.vercel.app/", // replace with actual repo
           year: "2025",
         },
+
+        {
+          id: 7,
+          name: "NBA 2025 Stats Web App",
+          imageUrl: "nba-stats-2025", // replace with a relevant image
+          category: "FullStack Web Application",
+          shortDescription:
+            "A web app that provides NBA player and team statistics using web scraping and a dynamic dashboard.",
+          fullDescription:
+            "NBA Stats Web App is a full-stack platform that allows users to view and analyze NBA player and team statistics. The backend scrapes data from basketball-reference.com using **Python, pandas, and BeautifulSoup** and stores it in a database. The frontend, built with **React**, displays interactive tables and visualizations. Jupyter Notebooks are used for data analysis and cleaning. This project demonstrates web scraping, backend API development, and responsive frontend design.",
+          technologies: [
+            "React",
+            "Spring Boot",
+            "PostgreSQL",
+            "Python",
+            "pandas",
+            "BeautifulSoup",
+            "Jupyter Notebook",
+            "Tailwind",
+          ],
+          features: [
+            "Web scraping of NBA stats from basketball-reference.com using Python",
+            "Data analysis and cleaning in Jupyter Notebook",
+            "Interactive tables and dashboards for players and teams",
+            "Search and Filter functionality for stats",
+            "Responsive frontend built with React",
+            "Backend API built with Spring Boot and database integration",
+          ],
+          github: "https://github.com/wildanfm19/nba_stats_2024-2025", // replace with actual repo
+          demo: "https://nba-player-stats-2024-2025-react.vercel.app/team", // replace with actual demo link
+          year: "2025",
+        },
       ],
     };
   },

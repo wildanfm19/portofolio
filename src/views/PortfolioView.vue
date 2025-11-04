@@ -158,7 +158,7 @@ export default {
         },
 
         {
-          id: 6,
+          id: 7,
           name: "Gmail AI Reply Web App",
           imageUrl: "email-ai-website", // replace with a relevant image
           category: "FullStack Web Application",
@@ -179,7 +179,7 @@ export default {
         },
 
         {
-          id: 7,
+          id: 8,
           name: "NBA 2025 Stats Web App",
           imageUrl: "nba-stats-2025", // replace with a relevant image
           category: "FullStack Web Application",
@@ -206,7 +206,7 @@ export default {
             "Backend API built with Spring Boot and database integration",
           ],
           github: "https://github.com/wildanfm19/nba_stats_2024-2025", // replace with actual repo
-          demo: "https://nba-player-stats-2024-2025-react.vercel.app/team", // replace with actual demo link
+          demo: "https://nba-player-stats-2024-2025-react.vercel.app/home", // replace with actual demo link
           year: "2025",
         },
       ],

@@ -15,20 +15,20 @@
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
             <li>
               <a @click="scrollToSection('home')"
-                class="fadein-bot text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer"
+                class="fadein-bot text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer"
                 aria-current="page">Home</a>
             </li>
             <li>
               <a @click="scrollToSection('about')"
-                class="fadein-bot fadein-1 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer">About</a>
+                class="fadein-bot fadein-1 text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer">About</a>
             </li>
             <li>
               <a @click="scrollToSection('portfolio')"
-                class="fadein-bot fadein-2 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer">Portfolio</a>
+                class="fadein-bot fadein-2 text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer">Portfolio</a>
             </li>
             <li>
               <a @click="scrollToSection('contact')"
-                class="fadein-bot fadein-3 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer">Contact</a>
+                class="fadein-bot fadein-3 text-white hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0 cursor-pointer">Contact</a>
             </li>
           </ul>
         </div>

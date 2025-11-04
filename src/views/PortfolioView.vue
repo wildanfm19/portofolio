@@ -31,7 +31,7 @@ export default {
             "Backend API built with Spring Boot and database integration",
           ],
           github: "https://github.com/wildanfm19/nba_stats_2024-2025", // replace with actual repo
-          demo: "https://nba-player-stats-2024-2025-react.vercel.app/home", // replace with actual demo link
+          demo: "https://nba-player-stats-2024-2025-react.vercel.app", // replace with actual demo link
           year: "2025",
         },
        

@@ -129,13 +129,20 @@ export default {
         },
         {
           id: 8,
+          name: "RabbitMQ",
+          imageUrl:
+            "https://cdn.worldvectorlogo.com/logos/rabbitmq.svg",
+          status: "Message Broker",
+        },
+        {
+          id: 9,
           name: "PostgreSQL",
           imageUrl:
             "https://cdn.worldvectorlogo.com/logos/postgresql.svg",
           status: "Database",
         },
         {
-          id: 9,
+          id: 10,
           name: "MongoDB",
           imageUrl:
             "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",

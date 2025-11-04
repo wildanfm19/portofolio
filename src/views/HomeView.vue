@@ -126,7 +126,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["Full Stack Developer", "With Springboot", "And Angular"],
+      toRotate: ["Full Stack Developer", "With Springboot", "And React"],
       period: 2000,
       txt: '',
       loopNum: 0,
